@@ -4,7 +4,7 @@ Sharing Basket is an application that connects local food pantries with members 
 Github Page: https://github.com/brittanymorrisdesign/SharingBasket </br>
 Live Demo: https://sharing-basket.herokuapp.com/ </br>
 
-![project14](https://user-images.githubusercontent.com/44029053/81513067-a15a9d80-92f3-11ea-91e8-5407d2678be6.png)
+![project14](https://user-images.githubusercontent.com/44029053/81513112-f0a0ce00-92f3-11ea-81d4-3ee5fcd4ecae.png)
 
 # Technologies Used
 * React.js
