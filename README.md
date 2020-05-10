@@ -16,7 +16,7 @@ Live Demo: https://sharing-basket.herokuapp.com/ </br>
 * CharityNavigator API
 
 # Created By
-Sharing Basket is a group project created by:
-https://github.com/brittanymorrisdesign, </br>
-https://github.com/DommiDan, </br>
+Sharing Basket is a group project created by: </br>
+https://github.com/brittanymorrisdesign </br>
+https://github.com/DommiDan </br>
 https://github.com/ngalter </br>
