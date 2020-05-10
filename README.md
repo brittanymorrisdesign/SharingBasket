@@ -20,3 +20,5 @@ Sharing Basket is a group project created by: </br>
 https://github.com/brittanymorrisdesign </br>
 https://github.com/DommiDan </br>
 https://github.com/ngalter </br>
+
+Repo clone from: https://github.com/ngalter/sharingbasket
